@@ -12,6 +12,6 @@ It mainly has three files
         d) The solution considers bulk upload for multiple equipments based on the equipment number
         e) Bulk upload functionality supports .xls/.xlsx formats
 
- **2) assessment-draft-upload-template**: Draft template that the developers can use to try the upload functionality
+ **2) assessment-draft-upload-template**: Draft template that the developers can use, to try the upload functionality
  
- **3) assessment-query-list**: This excel sheet contains the list of queries I have regarding the bulk upload functionality and the solution.
+ **3) assessment-query-list**: This excel sheet contains the list of queries I have, regarding the bulk upload functionality and the solution.
